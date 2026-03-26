@@ -20,7 +20,7 @@ At each step, save and commit your work in GitHub Desktop.
 - Step 4: *Added Photoshop modifications*  
 - Step 5: *Completed reflection*  
 
----
+--- 
 
 # Movie Poster Steps
 
