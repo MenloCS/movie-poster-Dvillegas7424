@@ -30,36 +30,34 @@ At each step, save and commit your work in GitHub Desktop.
 Before you open any AI tools, plan your vision. This is your anchor—return to it after every AI generation.
 
 **Your Movie Choice:**  
-- **Movie Title:**  
-- **Why I chose this movie:**  
+- **Movie Title:**  sherlock holmes
+- **Why I chose this movie:** because its deep into the mystery and thriller element
 
 **Core Emotion:**  
 What ONE feeling should a viewer get from your poster? (Examples: wonder, fear, joy, excitement, mystery, tension, nostalgia)  
-- **Core emotion:**  
-
+- **Core emotion:**  curiousness and mystery and facination
+ 
 **Essential Visual Element:**  
 What ONE image, object, or visual MUST appear on your poster?  
-- **Essential element:**  
-- **Why this element:**  
+- **Essential element:**  a cross section of a house with all the characters in it showing their different roles in the movie
+- **Why this element:**  to highlight the story of the movie without spoiling anything
 
 **What NOT to Include:**  
 What do you definitely NOT want? (This helps you evaluate AI outputs critically.)  
-- **Avoid:**  
+- **Avoid:**  cartoon look 
 
-**Color Palette:**  
-- **Dominant color(s):**  
-- **Accent color(s):**  
-- **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  
-
+**Color Palette:**  grey and blue 
+- **Dominant color(s):**  grey
+- **Accent color(s):**  red blue yellow
+- **Overall mood:** muted/vibrant/dark
 **Composition:**  
 - [ ] Close-up (face/detail)  
 - [ ] Wide shot (landscape/setting)  
 - [ ] Medium shot (full figure)  
-- [ ] Object/symbol centered  
+- [x] Object/symbol centered  
 - [ ] Character collage  
 
-- **Focal point description:**  
-
+- **Focal point description:**  the cross section is of a 3 story house with characters in every room doing something or holding solmething/ using it that describes the charactters there can also be people outside in the dark and its night outside
 ---
 
 ## Step 2: AI Generation – First Attempts
@@ -68,18 +66,18 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 Open Adobe Firefly. Generate images based on your creative brief, but remember: you're exploring possibilities, not looking for a final answer.
 
 **Attempt 1:**  
-- **My prompt:**  
+- **My prompt:**  the words above
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  the overall color pallete and mood it set
+- **What didn't work:**  the size of the house 
+- **What I'll change for next attempt:**  the size and details
 
 **Attempt 2:**  
 - **My prompt:**  
-
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+i added more rooms and every room focused on a person or thing
+- **What worked:**  the rooms were plentiful and detailed
+- **What didn't work:** the cartoony. look i tried to avoid 
+- **What I'll change for next attempt:**  the style of the house
 
 ---
 
